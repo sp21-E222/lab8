@@ -31,3 +31,22 @@ requirements.txt
 ## Task 5
 
 Get your python code into your repo and begin writing definitions 
+
+### Create directory structure for your python code
+```python
+server.py
+master.yaml
+Dockerfile
+Makefile
+requirements.txt
+my_python_dir
+```
+### Pickel your model
+
+See the lab 6 notebook.
+
+### Create .py files with a prediciton definition
+
+Create the prediction endpoint just like in lab 6
+
+
