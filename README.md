@@ -1,6 +1,6 @@
 # lab8
 
-Flask framework
+In today's lab we'll be focussing on connecting your machine learning application with Flask and Docker to run your application as a service on a Docker container. 
 
 ## Task 1
 
@@ -20,7 +20,7 @@ Make sure server.py can read your yaml file and remember what package allows us 
 
 Get the Dockerfile and other related files required to build and run your service in your container.
 
-```python
+```bash
 server.py
 master.yaml
 Dockerfile
@@ -30,22 +30,22 @@ requirements.txt
 
 ## Task 5
 
-Get your python code into your repo and begin writing definitions 
+Get your python code into your repo and writing definitions 
 
-### Create directory structure for your python code
-```python
-server.py
-master.yaml
-Dockerfile
-Makefile
-requirements.txt
-my_python_dir
-```
-### Pickel your model
+1. Create directory structure for your python code
+    ```bash
+    server.py
+    master.yaml
+    Dockerfile
+    Makefile
+    requirements.txt
+    my_python_dir
+    ```
+2. Pickel your model
 
-See the lab 6 notebook.
+See the [Lab 6 notebook](https://github.com/sp21-E222/lab6/blob/main/svm_classifier.ipynb).
 
-### Create .py files with a prediciton definition
+3. Create .py files with a prediciton definition
 
 Create the prediction endpoint just like in lab 6
 
