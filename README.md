@@ -1,2 +1,2 @@
 # lab8
-Flask and Docker exercises
+Flask framework
