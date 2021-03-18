@@ -4,33 +4,23 @@ In today's lab we'll be focussing on connecting your machine learning applicatio
 
 ## Task 1
 
-Create your own repo
+Let's create the repository for your application.
+
+1. Create a repository in github and clone it to your local machine
+2. Follow the structure in [Lab 6](https://github.com/sp21-E222/lab6) to get the necessary files needed for a minimum Flask application and add it to your repo.
+    
+    ```bash
+    server.py
+    Dockerfile
+    Makefile
+    requirements.txt
+    ```
+3. Add your yaml specification you created to the repository
+4. Do the necessary changes to server.py so that it can read your specification file. Remember what package allows us to do this.
 
 ## Task 2
 
-Follow the structure in lab 6 to get the necessary files needed for a minimum Flask application
-```python
-server.py
-```
-## Task 3
-
-Make sure server.py can read your yaml file and remember what package allows us to do this.
-
-## Task 4
-
-Get the Dockerfile and other related files required to build and run your service in your container.
-
-```bash
-server.py
-master.yaml
-Dockerfile
-Makefile
-requirements.txt
-```
-
-## Task 5
-
-Get your python code into your repo and writing definitions 
+Getting your python code into your repo and writing definitions.
 
 1. Create directory structure for your python code
     ```bash
