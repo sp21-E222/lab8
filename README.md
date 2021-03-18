@@ -41,12 +41,12 @@ Get your python code into your repo and writing definitions
     requirements.txt
     my_python_dir
     ```
-2. Pickel your model
+2. Pickel your model and add it to your repository.
 
-See the [Lab 6 notebook](https://github.com/sp21-E222/lab6/blob/main/svm_classifier.ipynb).
+    Refer to the [Lab 6 notebook.](https://github.com/sp21-E222/lab6/blob/main/svm_classifier.ipynb)
 
 3. Create .py files with a prediciton definition
 
-Create the prediction endpoint just like in lab 6
+    Create the prediction endpoint just like in lab 6
 
 
