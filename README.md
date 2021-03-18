@@ -18,7 +18,15 @@ Make sure server.py can read your yaml file and remember what package allows us 
 
 ## Task 4
 
-Get the Dockerfile required to build and run your service in your container. 
+Get the Dockerfile and other related files required to build and run your service in your container.
+
+```python
+server.py
+master.yaml
+Dockerfile
+Makefile
+requirements.txt
+```
 
 ## Task 5
 
